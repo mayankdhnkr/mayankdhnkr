@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayankdhnkr
-- 👀 I’m interested in Graphic Designing and Web Development
-- 🌱 I’m currently learning Web Dev
+- 👀 I’m interested in Web Development and Graphic Designing.
+- 🌱 I’m currently learning new tech stacks.
 - 📫 How to reach me linkedin or gmail
 
 <!---
